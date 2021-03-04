@@ -1,0 +1,13 @@
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC5_WageForMonth\UC5_WageForMonth\bin\Debug\netcoreapp3.1\UC5_WageForMonth.exe
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC5_WageForMonth\UC5_WageForMonth\bin\Debug\netcoreapp3.1\UC5_WageForMonth.deps.json
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC5_WageForMonth\UC5_WageForMonth\bin\Debug\netcoreapp3.1\UC5_WageForMonth.runtimeconfig.json
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC5_WageForMonth\UC5_WageForMonth\bin\Debug\netcoreapp3.1\UC5_WageForMonth.runtimeconfig.dev.json
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC5_WageForMonth\UC5_WageForMonth\bin\Debug\netcoreapp3.1\UC5_WageForMonth.dll
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC5_WageForMonth\UC5_WageForMonth\bin\Debug\netcoreapp3.1\UC5_WageForMonth.pdb
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC5_WageForMonth\UC5_WageForMonth\obj\Debug\netcoreapp3.1\UC5_WageForMonth.csprojAssemblyReference.cache
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC5_WageForMonth\UC5_WageForMonth\obj\Debug\netcoreapp3.1\UC5_WageForMonth.AssemblyInfoInputs.cache
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC5_WageForMonth\UC5_WageForMonth\obj\Debug\netcoreapp3.1\UC5_WageForMonth.AssemblyInfo.cs
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC5_WageForMonth\UC5_WageForMonth\obj\Debug\netcoreapp3.1\UC5_WageForMonth.csproj.CoreCompileInputs.cache
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC5_WageForMonth\UC5_WageForMonth\obj\Debug\netcoreapp3.1\UC5_WageForMonth.dll
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC5_WageForMonth\UC5_WageForMonth\obj\Debug\netcoreapp3.1\UC5_WageForMonth.pdb
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC5_WageForMonth\UC5_WageForMonth\obj\Debug\netcoreapp3.1\UC5_WageForMonth.genruntimeconfig.cache

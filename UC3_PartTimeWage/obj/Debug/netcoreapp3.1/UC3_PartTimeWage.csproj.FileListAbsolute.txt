@@ -1,0 +1,13 @@
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC3_PartTimeWage\UC3_PartTimeWage\bin\Debug\netcoreapp3.1\UC3_PartTimeWage.exe
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC3_PartTimeWage\UC3_PartTimeWage\bin\Debug\netcoreapp3.1\UC3_PartTimeWage.deps.json
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC3_PartTimeWage\UC3_PartTimeWage\bin\Debug\netcoreapp3.1\UC3_PartTimeWage.runtimeconfig.json
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC3_PartTimeWage\UC3_PartTimeWage\bin\Debug\netcoreapp3.1\UC3_PartTimeWage.runtimeconfig.dev.json
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC3_PartTimeWage\UC3_PartTimeWage\bin\Debug\netcoreapp3.1\UC3_PartTimeWage.dll
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC3_PartTimeWage\UC3_PartTimeWage\bin\Debug\netcoreapp3.1\UC3_PartTimeWage.pdb
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC3_PartTimeWage\UC3_PartTimeWage\obj\Debug\netcoreapp3.1\UC3_PartTimeWage.csprojAssemblyReference.cache
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC3_PartTimeWage\UC3_PartTimeWage\obj\Debug\netcoreapp3.1\UC3_PartTimeWage.AssemblyInfoInputs.cache
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC3_PartTimeWage\UC3_PartTimeWage\obj\Debug\netcoreapp3.1\UC3_PartTimeWage.AssemblyInfo.cs
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC3_PartTimeWage\UC3_PartTimeWage\obj\Debug\netcoreapp3.1\UC3_PartTimeWage.csproj.CoreCompileInputs.cache
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC3_PartTimeWage\UC3_PartTimeWage\obj\Debug\netcoreapp3.1\UC3_PartTimeWage.dll
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC3_PartTimeWage\UC3_PartTimeWage\obj\Debug\netcoreapp3.1\UC3_PartTimeWage.pdb
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC3_PartTimeWage\UC3_PartTimeWage\obj\Debug\netcoreapp3.1\UC3_PartTimeWage.genruntimeconfig.cache
