@@ -1,0 +1,13 @@
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC2_DailyWageOfTheEmployee\UC2_DailyWageOfTheEmployee\bin\Debug\netcoreapp3.1\UC2_DailyWageOfTheEmployee.exe
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC2_DailyWageOfTheEmployee\UC2_DailyWageOfTheEmployee\bin\Debug\netcoreapp3.1\UC2_DailyWageOfTheEmployee.deps.json
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC2_DailyWageOfTheEmployee\UC2_DailyWageOfTheEmployee\bin\Debug\netcoreapp3.1\UC2_DailyWageOfTheEmployee.runtimeconfig.json
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC2_DailyWageOfTheEmployee\UC2_DailyWageOfTheEmployee\bin\Debug\netcoreapp3.1\UC2_DailyWageOfTheEmployee.runtimeconfig.dev.json
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC2_DailyWageOfTheEmployee\UC2_DailyWageOfTheEmployee\bin\Debug\netcoreapp3.1\UC2_DailyWageOfTheEmployee.dll
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC2_DailyWageOfTheEmployee\UC2_DailyWageOfTheEmployee\bin\Debug\netcoreapp3.1\UC2_DailyWageOfTheEmployee.pdb
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC2_DailyWageOfTheEmployee\UC2_DailyWageOfTheEmployee\obj\Debug\netcoreapp3.1\UC2_DailyWageOfTheEmployee.csprojAssemblyReference.cache
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC2_DailyWageOfTheEmployee\UC2_DailyWageOfTheEmployee\obj\Debug\netcoreapp3.1\UC2_DailyWageOfTheEmployee.AssemblyInfoInputs.cache
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC2_DailyWageOfTheEmployee\UC2_DailyWageOfTheEmployee\obj\Debug\netcoreapp3.1\UC2_DailyWageOfTheEmployee.AssemblyInfo.cs
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC2_DailyWageOfTheEmployee\UC2_DailyWageOfTheEmployee\obj\Debug\netcoreapp3.1\UC2_DailyWageOfTheEmployee.csproj.CoreCompileInputs.cache
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC2_DailyWageOfTheEmployee\UC2_DailyWageOfTheEmployee\obj\Debug\netcoreapp3.1\UC2_DailyWageOfTheEmployee.dll
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC2_DailyWageOfTheEmployee\UC2_DailyWageOfTheEmployee\obj\Debug\netcoreapp3.1\UC2_DailyWageOfTheEmployee.pdb
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC2_DailyWageOfTheEmployee\UC2_DailyWageOfTheEmployee\obj\Debug\netcoreapp3.1\UC2_DailyWageOfTheEmployee.genruntimeconfig.cache
