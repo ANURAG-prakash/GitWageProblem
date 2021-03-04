@@ -1,0 +1,13 @@
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC1_Attendence\UC1_Attendence\obj\Debug\netcoreapp3.1\UC1_Attendence.csprojAssemblyReference.cache
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC1_Attendence\UC1_Attendence\obj\Debug\netcoreapp3.1\UC1_Attendence.AssemblyInfoInputs.cache
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC1_Attendence\UC1_Attendence\obj\Debug\netcoreapp3.1\UC1_Attendence.AssemblyInfo.cs
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC1_Attendence\UC1_Attendence\obj\Debug\netcoreapp3.1\UC1_Attendence.csproj.CoreCompileInputs.cache
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC1_Attendence\UC1_Attendence\bin\Debug\netcoreapp3.1\UC1_Attendence.exe
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC1_Attendence\UC1_Attendence\bin\Debug\netcoreapp3.1\UC1_Attendence.deps.json
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC1_Attendence\UC1_Attendence\bin\Debug\netcoreapp3.1\UC1_Attendence.runtimeconfig.json
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC1_Attendence\UC1_Attendence\bin\Debug\netcoreapp3.1\UC1_Attendence.runtimeconfig.dev.json
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC1_Attendence\UC1_Attendence\bin\Debug\netcoreapp3.1\UC1_Attendence.dll
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC1_Attendence\UC1_Attendence\bin\Debug\netcoreapp3.1\UC1_Attendence.pdb
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC1_Attendence\UC1_Attendence\obj\Debug\netcoreapp3.1\UC1_Attendence.dll
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC1_Attendence\UC1_Attendence\obj\Debug\netcoreapp3.1\UC1_Attendence.pdb
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC1_Attendence\UC1_Attendence\obj\Debug\netcoreapp3.1\UC1_Attendence.genruntimeconfig.cache
