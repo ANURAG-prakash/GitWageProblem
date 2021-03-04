@@ -1,0 +1,12 @@
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC4_DailyWageUsingSwitch\UC4_DailyWageUsingSwitch\bin\Debug\netcoreapp3.1\UC4_DailyWageUsingSwitch.exe
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC4_DailyWageUsingSwitch\UC4_DailyWageUsingSwitch\bin\Debug\netcoreapp3.1\UC4_DailyWageUsingSwitch.deps.json
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC4_DailyWageUsingSwitch\UC4_DailyWageUsingSwitch\bin\Debug\netcoreapp3.1\UC4_DailyWageUsingSwitch.runtimeconfig.json
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC4_DailyWageUsingSwitch\UC4_DailyWageUsingSwitch\bin\Debug\netcoreapp3.1\UC4_DailyWageUsingSwitch.runtimeconfig.dev.json
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC4_DailyWageUsingSwitch\UC4_DailyWageUsingSwitch\bin\Debug\netcoreapp3.1\UC4_DailyWageUsingSwitch.dll
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC4_DailyWageUsingSwitch\UC4_DailyWageUsingSwitch\bin\Debug\netcoreapp3.1\UC4_DailyWageUsingSwitch.pdb
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC4_DailyWageUsingSwitch\UC4_DailyWageUsingSwitch\obj\Debug\netcoreapp3.1\UC4_DailyWageUsingSwitch.AssemblyInfoInputs.cache
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC4_DailyWageUsingSwitch\UC4_DailyWageUsingSwitch\obj\Debug\netcoreapp3.1\UC4_DailyWageUsingSwitch.AssemblyInfo.cs
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC4_DailyWageUsingSwitch\UC4_DailyWageUsingSwitch\obj\Debug\netcoreapp3.1\UC4_DailyWageUsingSwitch.csproj.CoreCompileInputs.cache
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC4_DailyWageUsingSwitch\UC4_DailyWageUsingSwitch\obj\Debug\netcoreapp3.1\UC4_DailyWageUsingSwitch.dll
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC4_DailyWageUsingSwitch\UC4_DailyWageUsingSwitch\obj\Debug\netcoreapp3.1\UC4_DailyWageUsingSwitch.pdb
+C:\Users\praka\OneDrive\Desktop\Anurag Prakash\UC4_DailyWageUsingSwitch\UC4_DailyWageUsingSwitch\obj\Debug\netcoreapp3.1\UC4_DailyWageUsingSwitch.genruntimeconfig.cache
