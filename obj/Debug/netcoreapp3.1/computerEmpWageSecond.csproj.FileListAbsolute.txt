@@ -1,0 +1,13 @@
+C:\Users\praka\OneDrive\Desktop\21\computerEmpWageSecond\computerEmpWageSecond\obj\Debug\netcoreapp3.1\computerEmpWageSecond.csprojAssemblyReference.cache
+C:\Users\praka\OneDrive\Desktop\21\computerEmpWageSecond\computerEmpWageSecond\obj\Debug\netcoreapp3.1\computerEmpWageSecond.AssemblyInfoInputs.cache
+C:\Users\praka\OneDrive\Desktop\21\computerEmpWageSecond\computerEmpWageSecond\obj\Debug\netcoreapp3.1\computerEmpWageSecond.AssemblyInfo.cs
+C:\Users\praka\OneDrive\Desktop\21\computerEmpWageSecond\computerEmpWageSecond\obj\Debug\netcoreapp3.1\computerEmpWageSecond.csproj.CoreCompileInputs.cache
+C:\Users\praka\OneDrive\Desktop\21\computerEmpWageSecond\computerEmpWageSecond\bin\Debug\netcoreapp3.1\computerEmpWageSecond.exe
+C:\Users\praka\OneDrive\Desktop\21\computerEmpWageSecond\computerEmpWageSecond\bin\Debug\netcoreapp3.1\computerEmpWageSecond.deps.json
+C:\Users\praka\OneDrive\Desktop\21\computerEmpWageSecond\computerEmpWageSecond\bin\Debug\netcoreapp3.1\computerEmpWageSecond.runtimeconfig.json
+C:\Users\praka\OneDrive\Desktop\21\computerEmpWageSecond\computerEmpWageSecond\bin\Debug\netcoreapp3.1\computerEmpWageSecond.runtimeconfig.dev.json
+C:\Users\praka\OneDrive\Desktop\21\computerEmpWageSecond\computerEmpWageSecond\bin\Debug\netcoreapp3.1\computerEmpWageSecond.dll
+C:\Users\praka\OneDrive\Desktop\21\computerEmpWageSecond\computerEmpWageSecond\bin\Debug\netcoreapp3.1\computerEmpWageSecond.pdb
+C:\Users\praka\OneDrive\Desktop\21\computerEmpWageSecond\computerEmpWageSecond\obj\Debug\netcoreapp3.1\computerEmpWageSecond.dll
+C:\Users\praka\OneDrive\Desktop\21\computerEmpWageSecond\computerEmpWageSecond\obj\Debug\netcoreapp3.1\computerEmpWageSecond.pdb
+C:\Users\praka\OneDrive\Desktop\21\computerEmpWageSecond\computerEmpWageSecond\obj\Debug\netcoreapp3.1\computerEmpWageSecond.genruntimeconfig.cache
