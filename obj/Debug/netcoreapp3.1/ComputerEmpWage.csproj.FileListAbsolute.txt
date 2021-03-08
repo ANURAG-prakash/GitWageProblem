@@ -1,0 +1,13 @@
+C:\Users\praka\OneDrive\Desktop\21\ComputerEmpWage\ComputerEmpWage\obj\Debug\netcoreapp3.1\ComputerEmpWage.csprojAssemblyReference.cache
+C:\Users\praka\OneDrive\Desktop\21\ComputerEmpWage\ComputerEmpWage\obj\Debug\netcoreapp3.1\ComputerEmpWage.AssemblyInfoInputs.cache
+C:\Users\praka\OneDrive\Desktop\21\ComputerEmpWage\ComputerEmpWage\obj\Debug\netcoreapp3.1\ComputerEmpWage.AssemblyInfo.cs
+C:\Users\praka\OneDrive\Desktop\21\ComputerEmpWage\ComputerEmpWage\obj\Debug\netcoreapp3.1\ComputerEmpWage.csproj.CoreCompileInputs.cache
+C:\Users\praka\OneDrive\Desktop\21\ComputerEmpWage\ComputerEmpWage\bin\Debug\netcoreapp3.1\ComputerEmpWage.exe
+C:\Users\praka\OneDrive\Desktop\21\ComputerEmpWage\ComputerEmpWage\bin\Debug\netcoreapp3.1\ComputerEmpWage.deps.json
+C:\Users\praka\OneDrive\Desktop\21\ComputerEmpWage\ComputerEmpWage\bin\Debug\netcoreapp3.1\ComputerEmpWage.runtimeconfig.json
+C:\Users\praka\OneDrive\Desktop\21\ComputerEmpWage\ComputerEmpWage\bin\Debug\netcoreapp3.1\ComputerEmpWage.runtimeconfig.dev.json
+C:\Users\praka\OneDrive\Desktop\21\ComputerEmpWage\ComputerEmpWage\bin\Debug\netcoreapp3.1\ComputerEmpWage.dll
+C:\Users\praka\OneDrive\Desktop\21\ComputerEmpWage\ComputerEmpWage\bin\Debug\netcoreapp3.1\ComputerEmpWage.pdb
+C:\Users\praka\OneDrive\Desktop\21\ComputerEmpWage\ComputerEmpWage\obj\Debug\netcoreapp3.1\ComputerEmpWage.dll
+C:\Users\praka\OneDrive\Desktop\21\ComputerEmpWage\ComputerEmpWage\obj\Debug\netcoreapp3.1\ComputerEmpWage.pdb
+C:\Users\praka\OneDrive\Desktop\21\ComputerEmpWage\ComputerEmpWage\obj\Debug\netcoreapp3.1\ComputerEmpWage.genruntimeconfig.cache
