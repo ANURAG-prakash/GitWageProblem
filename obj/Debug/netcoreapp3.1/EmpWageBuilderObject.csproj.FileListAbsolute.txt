@@ -1,0 +1,13 @@
+C:\Users\praka\OneDrive\Desktop\21\EmpWageBuilderObject\EmpWageBuilderObject\obj\Debug\netcoreapp3.1\EmpWageBuilderObject.AssemblyInfoInputs.cache
+C:\Users\praka\OneDrive\Desktop\21\EmpWageBuilderObject\EmpWageBuilderObject\obj\Debug\netcoreapp3.1\EmpWageBuilderObject.AssemblyInfo.cs
+C:\Users\praka\OneDrive\Desktop\21\EmpWageBuilderObject\EmpWageBuilderObject\obj\Debug\netcoreapp3.1\EmpWageBuilderObject.csproj.CoreCompileInputs.cache
+C:\Users\praka\OneDrive\Desktop\21\EmpWageBuilderObject\EmpWageBuilderObject\bin\Debug\netcoreapp3.1\EmpWageBuilderObject.exe
+C:\Users\praka\OneDrive\Desktop\21\EmpWageBuilderObject\EmpWageBuilderObject\bin\Debug\netcoreapp3.1\EmpWageBuilderObject.deps.json
+C:\Users\praka\OneDrive\Desktop\21\EmpWageBuilderObject\EmpWageBuilderObject\bin\Debug\netcoreapp3.1\EmpWageBuilderObject.runtimeconfig.json
+C:\Users\praka\OneDrive\Desktop\21\EmpWageBuilderObject\EmpWageBuilderObject\bin\Debug\netcoreapp3.1\EmpWageBuilderObject.runtimeconfig.dev.json
+C:\Users\praka\OneDrive\Desktop\21\EmpWageBuilderObject\EmpWageBuilderObject\bin\Debug\netcoreapp3.1\EmpWageBuilderObject.dll
+C:\Users\praka\OneDrive\Desktop\21\EmpWageBuilderObject\EmpWageBuilderObject\bin\Debug\netcoreapp3.1\EmpWageBuilderObject.pdb
+C:\Users\praka\OneDrive\Desktop\21\EmpWageBuilderObject\EmpWageBuilderObject\obj\Debug\netcoreapp3.1\EmpWageBuilderObject.csprojAssemblyReference.cache
+C:\Users\praka\OneDrive\Desktop\21\EmpWageBuilderObject\EmpWageBuilderObject\obj\Debug\netcoreapp3.1\EmpWageBuilderObject.dll
+C:\Users\praka\OneDrive\Desktop\21\EmpWageBuilderObject\EmpWageBuilderObject\obj\Debug\netcoreapp3.1\EmpWageBuilderObject.pdb
+C:\Users\praka\OneDrive\Desktop\21\EmpWageBuilderObject\EmpWageBuilderObject\obj\Debug\netcoreapp3.1\EmpWageBuilderObject.genruntimeconfig.cache
