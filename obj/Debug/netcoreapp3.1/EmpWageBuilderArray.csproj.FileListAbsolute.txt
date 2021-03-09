@@ -1,0 +1,4 @@
+C:\Users\praka\OneDrive\Desktop\21\EmpWageBuilderArray\EmpWageBuilderArray\obj\Debug\netcoreapp3.1\EmpWageBuilderArray.csprojAssemblyReference.cache
+C:\Users\praka\OneDrive\Desktop\21\EmpWageBuilderArray\EmpWageBuilderArray\obj\Debug\netcoreapp3.1\EmpWageBuilderArray.AssemblyInfoInputs.cache
+C:\Users\praka\OneDrive\Desktop\21\EmpWageBuilderArray\EmpWageBuilderArray\obj\Debug\netcoreapp3.1\EmpWageBuilderArray.AssemblyInfo.cs
+C:\Users\praka\OneDrive\Desktop\21\EmpWageBuilderArray\EmpWageBuilderArray\obj\Debug\netcoreapp3.1\EmpWageBuilderArray.csproj.CoreCompileInputs.cache
